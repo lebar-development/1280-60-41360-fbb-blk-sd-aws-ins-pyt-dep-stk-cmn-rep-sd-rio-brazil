@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "fileNameKEY": "authorized_keys",
+  "resourceTypeKEY": "file",
+  "resourceStringTypeKEY": "none",
+  "fileTextKEY": "XXXX",
+  "resourceDescriptionKEY": "The authorized_keys resource is used to store the credentials for the ubuntu user.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "CreekTrollBOT",
+    "ifqridKEY": "1280-60-11015-jcr-fil-sd-aws",
+    "resourceTypeKEY": "fil",
+    "blockNumberKEY": "1280-60",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }

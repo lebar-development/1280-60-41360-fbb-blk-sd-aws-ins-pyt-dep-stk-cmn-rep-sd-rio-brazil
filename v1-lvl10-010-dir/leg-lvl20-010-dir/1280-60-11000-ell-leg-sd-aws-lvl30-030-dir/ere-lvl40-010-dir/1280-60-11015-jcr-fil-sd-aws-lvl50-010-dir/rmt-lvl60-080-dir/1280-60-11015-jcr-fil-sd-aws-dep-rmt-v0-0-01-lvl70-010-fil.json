@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "CreekTrollBOT",
+  "resourceNameKEY": "authorized_keys",
+  "ifqridKEY": "1280-60-11015-jcr-fil-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-11015-jcr-fil-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11000KEY": "11015",
+  "deletionProtectionFlag11000KEY": "none"
 }
