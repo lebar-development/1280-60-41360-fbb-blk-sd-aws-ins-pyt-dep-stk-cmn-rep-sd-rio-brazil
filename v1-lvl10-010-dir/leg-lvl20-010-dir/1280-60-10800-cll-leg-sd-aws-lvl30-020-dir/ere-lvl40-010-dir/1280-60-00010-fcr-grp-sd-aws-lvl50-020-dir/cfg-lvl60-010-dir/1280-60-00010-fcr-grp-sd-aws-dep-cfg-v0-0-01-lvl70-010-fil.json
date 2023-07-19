@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "groupNameKEY": "crypto-bing-1280-60-grp-sd",
+  "resourceTypeKEY": "group",
+  "resourceStringTypeKEY": "none",
+  "groupTextKEY": "none",
+  "resourceDescriptionKEY": "This group resource is used to configure the Jump resource.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "VinnyThePhoneTrollBOT",
+    "cfqridKEY": "1280-60-00010-fcr-grp-sd-aws",
+    "resourceTypeKEY": "grp",
+    "blockNumberKEY": "1280-60",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }

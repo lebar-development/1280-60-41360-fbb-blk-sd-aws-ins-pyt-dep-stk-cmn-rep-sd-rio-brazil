@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "VinnyThePhoneTrollBOT",
+  "resourceNameKEY": "crypto-bing-1280-60-grp-sd",
+  "cfqridKEY": "1280-60-00010-fcr-grp-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-00010-fcr-grp-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10800KEY": "00010",
+  "deletionProtectionFlag10800KEY": "none"
 }
