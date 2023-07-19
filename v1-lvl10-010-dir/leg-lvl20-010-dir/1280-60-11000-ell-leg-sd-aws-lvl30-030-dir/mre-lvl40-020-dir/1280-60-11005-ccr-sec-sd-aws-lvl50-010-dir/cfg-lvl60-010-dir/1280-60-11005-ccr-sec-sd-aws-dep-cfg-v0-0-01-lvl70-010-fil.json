@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "secretNameKEY": "jump-block-one-crypto-bing-authorized-ssh-key-1280-60-sec-sd",
+  "resourceTypeKEY": "secret",
+  "resourceStringTypeKEY": "none",
+  "secretTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This secret includes the credentials of the authorized_keys resource.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "BarnebisTrollBOT",
+    "cfqridKEY": "1280-60-11005-ccr-sec-sd-aws",
+    "resourceTypeKEY": "sec",
+    "blockNumberKEY": "1280-60",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }

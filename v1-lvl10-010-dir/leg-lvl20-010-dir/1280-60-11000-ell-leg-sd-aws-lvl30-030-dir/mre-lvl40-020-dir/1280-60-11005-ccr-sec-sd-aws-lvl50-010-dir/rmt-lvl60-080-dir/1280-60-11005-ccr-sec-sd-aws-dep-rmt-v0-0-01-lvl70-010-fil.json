@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "BarnebisTrollBOT",
+  "resourceNameKEY": "jump-block-one-crypto-bing-authorized-ssh-key-1280-60-sec-sd",
+  "cfqridKEY": "1280-60-11005-ccr-sec-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-11005-ccr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11000KEY": "11005",
+  "deletionProtectionFlag11000KEY": "none"
 }
