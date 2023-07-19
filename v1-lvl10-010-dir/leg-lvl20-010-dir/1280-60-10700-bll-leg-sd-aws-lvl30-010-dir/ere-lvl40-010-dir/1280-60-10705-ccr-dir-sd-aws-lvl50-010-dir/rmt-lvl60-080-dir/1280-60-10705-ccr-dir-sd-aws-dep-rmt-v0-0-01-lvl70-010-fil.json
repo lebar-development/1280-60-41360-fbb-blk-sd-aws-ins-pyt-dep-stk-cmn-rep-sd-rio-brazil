@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "CloudGuyTrollBOT",
+  "resourceNameKEY": "crypto-bing-home-1280-60-dir-sd",
+  "cfqridKEY": "1280-60-10705-ccr-dir-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-10705-ccr-dir-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10700KEY": "10705",
+  "deletionProtectionFlag10700KEY": "none"
 }
