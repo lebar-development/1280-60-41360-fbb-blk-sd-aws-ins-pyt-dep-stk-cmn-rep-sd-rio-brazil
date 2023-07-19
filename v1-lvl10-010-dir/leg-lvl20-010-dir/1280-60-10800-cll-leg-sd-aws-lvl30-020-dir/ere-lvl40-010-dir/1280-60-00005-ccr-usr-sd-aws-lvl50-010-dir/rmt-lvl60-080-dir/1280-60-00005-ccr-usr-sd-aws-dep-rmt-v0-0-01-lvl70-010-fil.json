@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "MrDinklesTrollBOT",
+  "resourceNameKEY": "crypto-bing-1280-60-usr-sd",
+  "cfqridKEY": "1280-60-00005-ccr-usr-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-00005-ccr-usr-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10800KEY": "00005",
+  "deletionProtectionFlag10800KEY": "none"
 }

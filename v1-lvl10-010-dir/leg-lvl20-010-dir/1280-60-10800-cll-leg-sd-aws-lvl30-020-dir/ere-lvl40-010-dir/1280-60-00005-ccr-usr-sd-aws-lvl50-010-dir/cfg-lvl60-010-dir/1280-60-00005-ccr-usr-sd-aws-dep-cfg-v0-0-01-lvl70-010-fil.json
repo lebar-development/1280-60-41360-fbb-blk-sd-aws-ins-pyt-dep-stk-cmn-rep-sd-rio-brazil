@@ -1,3 +1,19 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "userNameKEY": "crypto-bing-1280-60-usr-sd",
+  "resourceTypeKEY": "user",
+  "resourceStringTypeKEY": "none",
+  "userTextKEY": "none",
+  "resourceDescriptionKEY": "This user resource is used to configure the Jump resource.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "MrDinklesTrollBOT",
+    "cfqridKEY": "1280-60-00005-ccr-usr-sd-aws",
+    "resourceTypeKEY": "usr",
+    "blockNumberKEY": "1280-60",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
 }
