@@ -1,3 +1,10 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "FuzzbertTrollBOT",
+  "resourceNameKEY": ".ssh",
+  "cfqridKEY": "1280-60-11010-fcr-dir-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-60-11010-fcr-dir-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11000KEY": "11010",
+  "deletionProtectionFlag11000KEY": "none"
 }
