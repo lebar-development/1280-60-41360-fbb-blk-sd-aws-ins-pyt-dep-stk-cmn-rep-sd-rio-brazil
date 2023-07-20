@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "fileNameKEY": "authorized_keys",
+  "resourceNameKEY": "authorized_keys",
   "resourceTypeKEY": "file",
   "resourceStringTypeKEY": "none",
   "fileTextKEY": "XXXX",

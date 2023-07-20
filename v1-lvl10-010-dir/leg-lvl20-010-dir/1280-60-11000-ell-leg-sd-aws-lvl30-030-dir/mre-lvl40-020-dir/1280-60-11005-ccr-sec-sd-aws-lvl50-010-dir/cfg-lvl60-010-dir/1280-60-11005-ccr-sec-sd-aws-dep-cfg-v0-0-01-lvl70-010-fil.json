@@ -1,6 +1,6 @@
 {
   "resourceMetadataKEY": "yes",
-  "secretNameKEY": "jump-block-one-crypto-bing-authorized-ssh-key-1280-60-sec-sd",
+  "resourceNameKEY": "jump-block-one-crypto-bing-authorized-ssh-key-1280-60-sec-sd",
   "resourceTypeKEY": "secret",
   "resourceStringTypeKEY": "none",
   "secretTextKEY": "XXXX",
